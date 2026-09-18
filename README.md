@@ -9,6 +9,8 @@
 
 
 # To Do
+* ``[GM]`` Nickname check validation
+* ``/mute playername`` chat command for GMs (sets Manner Score to 0)
 * Room Chat
 * Whisper Chat
 * Create Room
