@@ -7,6 +7,7 @@
 
 
 # To Do
+* Manner Score
 * Lobby Chat
 * Room Chat
 * Whisper Chat
