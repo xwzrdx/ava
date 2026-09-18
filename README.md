@@ -22,6 +22,7 @@
 * Room Player List
 * Room Chat
 * Ready/Unready
+* Change Room Settings (Changes are reflected to the room-list immediately)
 
 # To Do
 * Change Team
@@ -35,7 +36,6 @@
 * Mailbox
 * Durability
 * Rentals/Expiring Items
-* Change Room Settings
 * Kick player from room
 * Euros/EXP/Stats from matches (Also calculate booster items like EXP/Euros)
 * Expiring Items (?)
