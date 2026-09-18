@@ -21,6 +21,7 @@
 * Password protected rooms & password verification
 * Room Player List
 * Room Chat
+* Ready/Unready
 
 # To Do
 * Change Team
