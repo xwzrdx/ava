@@ -14,7 +14,7 @@
 * Shop (Buy Items, Deduct Currency, Validate if enough currency)
 * Equip Item
 * Inventory
-
+* Create Room
 
 # To Do
 * Items that give Bonus% stuff (Euros/EXP, Boosters etc.)
@@ -22,7 +22,6 @@
 * ``[GM]`` Nickname check validation
 * ``/mute playername`` chat command for GMs (sets Manner Score to 0)
 * Room Chat
-* Create Room
 * Enter Room
 * Room Player List
 * Experience
@@ -51,6 +50,7 @@
 <img width="430" height="452" alt="image" src="https://github.com/user-attachments/assets/ca8fa0bc-badd-411d-a74f-7ac5922e56ec" />
 <img width="662" height="367" alt="image" src="https://github.com/user-attachments/assets/ea4f6cf5-6e76-4538-aa98-39ba9e7bb12d" />
 <img width="1371" height="1122" alt="image" src="https://github.com/user-attachments/assets/e6815cf1-86a8-427c-b78a-da83fa77f6d6" />
+<img width="1390" height="830" alt="image" src="https://github.com/user-attachments/assets/b80a7cee-a505-4e5b-8e5b-593d2e41f353" />
 
 
 
