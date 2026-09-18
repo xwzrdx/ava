@@ -11,6 +11,8 @@
 * Player Levels
 * Currencies (Euros, EMP, Red Tickets)
 * Lobby Player List
+* Shop (Buy Items, Deduct Currency, Validate if enough currency)
+* Inventory
 
 
 # To Do
@@ -23,6 +25,7 @@
 * Experience
 * Stats
 * Training Weapons when creating char?
+* Mailbox
 
 
 # Screenshots
@@ -35,6 +38,9 @@
 <img width="432" height="292" alt="image" src="https://github.com/user-attachments/assets/e6f4c26c-526e-43a3-939d-78499c729119" />
 <img width="303" height="100" alt="image" src="https://github.com/user-attachments/assets/79cacb5e-3034-4a66-bc07-5be9f650f524" />
 <img width="391" height="138" alt="image" src="https://github.com/user-attachments/assets/34c99c04-a793-4abd-856f-640a4363989a" />
+<img width="1028" height="676" alt="image" src="https://github.com/user-attachments/assets/3ebf8120-c218-4069-ac46-62e386da4d13" />
+<img width="430" height="452" alt="image" src="https://github.com/user-attachments/assets/ca8fa0bc-badd-411d-a74f-7ac5922e56ec" />
+<img width="662" height="367" alt="image" src="https://github.com/user-attachments/assets/ea4f6cf5-6e76-4538-aa98-39ba9e7bb12d" />
 
 
 
