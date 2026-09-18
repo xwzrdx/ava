@@ -35,6 +35,7 @@
 * Change Room Settings
 * Kick player from room
 * Euros/EXP/Stats from matches (Also calculate booster items like EXP/Euros)
+* Expiring Items (?)
 
 # Screenshots
 <img width="1285" height="713" alt="image" src="https://github.com/user-attachments/assets/13673da5-2b30-4d25-91d0-cb59413dcaaa" />
