@@ -15,23 +15,25 @@
 * Equip Item
 * Inventory
 * Create Room
-* Room List
+* Room List (Empty Rooms removed from room list)
+* Enter Room
+* Leave Room (Change room owner when host leaves room)
+* Password protected rooms & password verification
+* Room Player List
+* Room Chat
 
 # To Do
+* Change Team
 * Items that give Bonus% stuff (Euros/EXP, Boosters etc.)
 * Items that give Bonus+ Euros
 * ``[GM]`` Nickname check validation
 * ``/mute playername`` chat command for GMs (sets Manner Score to 0)
-* Room Chat
-* Enter Room
-* Room Player List
-* Experience
+* EXP
 * Stats
 * Training Weapons when creating char?
 * Mailbox
 * Durability
 * Rentals/Expiring Items
-* Change Room Host when host leaves room
 * Change Room Settings
 * Kick player from room
 * Euros/EXP/Stats from matches (Also calculate booster items like EXP/Euros)
