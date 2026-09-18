@@ -17,6 +17,8 @@
 
 
 # To Do
+* Items that give Bonus% stuff (Euros, EXP, etc.)
+* Items that give Bonus+ Euros
 * ``[GM]`` Nickname check validation
 * ``/mute playername`` chat command for GMs (sets Manner Score to 0)
 * Room Chat
