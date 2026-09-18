@@ -6,11 +6,11 @@
 * Nickname already exists
 * Manner Score
 * Lobby Chat
+* Whisper Chat
 * GM Chat
 * Player Levels
 * Currencies (Euros, EMP, Red Tickets)
 * Lobby Player List
-* Whisper Chat
 
 
 # To Do
