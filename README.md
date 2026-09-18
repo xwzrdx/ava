@@ -12,7 +12,7 @@
 * Currencies (Euros, EMP, Red Tickets)
 * Lobby Player List
 * Shop (Buy Items, Deduct Currency, Validate if enough currency)
-* Inventory
+
 
 
 # To Do
@@ -26,7 +26,9 @@
 * Stats
 * Training Weapons when creating char?
 * Mailbox
-
+* Durability
+* Equip Item
+* Inventory
 
 # Screenshots
 <img width="1285" height="713" alt="image" src="https://github.com/user-attachments/assets/13673da5-2b30-4d25-91d0-cb59413dcaaa" />
