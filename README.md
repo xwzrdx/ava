@@ -1,4 +1,4 @@
-# Server Emulator for A.V.A Enmasse ``Client Ver. 5570.73795``
+  # Server Emulator for A.V.A Enmasse ``Client Ver. 5570.73795``
 
 
 # Done
@@ -28,7 +28,10 @@
 * Training Weapons when creating char?
 * Mailbox
 * Durability
-
+* Rentals/Expiring Items
+* Change Room Host when host leaves room
+* Change Room Settings
+* Kick player from room
 
 # Screenshots
 <img width="1285" height="713" alt="image" src="https://github.com/user-attachments/assets/13673da5-2b30-4d25-91d0-cb59413dcaaa" />
