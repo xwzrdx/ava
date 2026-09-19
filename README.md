@@ -26,7 +26,8 @@
 * Weapon Sway when looking around
 * FOV Changer
 * Viewmodel FOV changer
-
+* Fog
+* Fixed a weird client bug causing the game to freeze when enabling ``After Effects``
 
 
 
