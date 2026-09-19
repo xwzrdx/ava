@@ -23,6 +23,15 @@
 * Room Chat
 * Ready/Unready
 * Change Room Settings (Changes are reflected to the room-list immediately)
+* Weapon Sway when looking around
+* FOV Changer
+* Viewmodel FOV changer
+
+
+
+
+
+
 
 # To Do
 * Change Team
