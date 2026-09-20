@@ -22,6 +22,7 @@
 * Room Player List
 * Room Chat
 * Ready/Unready
+* Multiplayer
 * Change Room Settings (Changes are reflected to the room-list immediately)
 * Weapon Sway when looking around
 * FOV Changer
