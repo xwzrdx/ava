@@ -26,6 +26,7 @@
 * Change Room Settings (Changes are reflected to the room-list immediately)
 * Victory/Defeat stats
 * Exp
+* Friends List (Online & Offline status included)
 * Weapon Modifications
 
 
@@ -44,6 +45,7 @@
 
 
 # To Do
+* Friend Requests
 * Change Team
 * Items that give Bonus% stuff (Euros/EXP, Boosters etc.)
 * Items that give Bonus+ Euros
