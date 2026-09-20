@@ -27,6 +27,7 @@
 * Victory/Defeat stats
 * Exp
 * Friends List (Online & Offline status included)
+* Friend Requests
 * Weapon Modifications
 
 
@@ -45,7 +46,8 @@
 
 
 # To Do
-* Friend Requests
+* Remove Friend
+* Block Player
 * Change Team
 * Items that give Bonus% stuff (Euros/EXP, Boosters etc.)
 * Items that give Bonus+ Euros
