@@ -24,11 +24,18 @@
 * Ready/Unready
 * Multiplayer
 * Change Room Settings (Changes are reflected to the room-list immediately)
+* Victory/Defeat stats
+* Exp
+
+
+# Client Stuff
 * Weapon Sway when looking around
 * FOV Changer
 * Viewmodel FOV changer
 * Fog
 * Fixed a weird client bug causing the game to freeze when enabling ``After Effects``
+* True First Person (Legs & Feet shown!)
+
 
 
 
@@ -41,8 +48,7 @@
 * Items that give Bonus+ Euros
 * ``[GM]`` Nickname check validation
 * ``/mute playername`` chat command for GMs (sets Manner Score to 0)
-* EXP
-* Stats
+* Stats updates (Victory/Defeat in rooms, ignore ai rooms)
 * Training Weapons when creating char?
 * Mailbox
 * Durability
@@ -68,6 +74,9 @@
 <img width="1390" height="830" alt="image" src="https://github.com/user-attachments/assets/b80a7cee-a505-4e5b-8e5b-593d2e41f353" />
 <img width="746" height="255" alt="image" src="https://github.com/user-attachments/assets/2616819a-198b-45cb-be3c-2e3c25a80a95" />
 <img width="996" height="775" alt="image" src="https://github.com/user-attachments/assets/4da7531f-6919-46c5-a0f0-47030583418e" />
+<img width="993" height="742" alt="image" src="https://github.com/user-attachments/assets/f79ea6cb-0653-49ea-9525-284ee159d632" />
+<img width="987" height="767" alt="image" src="https://github.com/user-attachments/assets/3dc8e162-ae7e-4afa-a9ae-72cad820edc2" />
+<img width="988" height="741" alt="image" src="https://github.com/user-attachments/assets/59935ffb-8233-4f13-a69b-9a53e4896c97" />
 
 
 
