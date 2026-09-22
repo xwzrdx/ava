@@ -29,9 +29,10 @@
 * Friends List (Online & Offline status included)
 * Friend Requests
 * Remove Friend
+* Follow/Join friend through friend list
 * Friend Memo
 * Weapon Modifications
-
+* Original Channels (Arena/Ranked/Clan, AI/Scenario, etc.)
 
 # Client Stuff
 * Weapon Sway when looking around
@@ -49,7 +50,6 @@
 
 
 # To Do
-* Original Channels (Arena/Ranked/Clan, AI/Scenario, etc.)
 * Block Player
 * Change Team
 * Items that give Bonus% stuff (Euros/EXP, Boosters etc.)
