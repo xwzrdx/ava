@@ -28,6 +28,8 @@
 * Exp
 * Friends List (Online & Offline status included)
 * Friend Requests
+* Remove Friend
+* Friend Memo
 * Weapon Modifications
 
 
@@ -47,7 +49,7 @@
 
 
 # To Do
-* Remove Friend
+* Original Channels (Arena/Ranked/Clan, AI/Scenario, etc.)
 * Block Player
 * Change Team
 * Items that give Bonus% stuff (Euros/EXP, Boosters etc.)
