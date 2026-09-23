@@ -33,7 +33,7 @@
 * Friend Memo
 * Weapon Modifications
 * Original Channels (Arena/Ranked/Clan, AI/Scenario, etc.)
-* Capsule Shop
+* Capsule Shop (3% chance per Capsule)
 * Jackpot message when an item is won
 
 # Client Stuff
@@ -70,6 +70,15 @@
 * Euros/EXP/Stats from matches (Also calculate booster items like EXP/Euros)
 * Expiring Items (?)
 * Custom Modes: Gun Game, Hardcore, Lifesteal, etc.
+
+
+
+# Ideas
+* Pity System for Capsules: Guaranteed drop after X spinned capsules?
+
+
+
+
 
 # Screenshots
 <img width="1285" height="713" alt="image" src="https://github.com/user-attachments/assets/13673da5-2b30-4d25-91d0-cb59413dcaaa" />
