@@ -50,6 +50,7 @@
 
 
 # To Do
+* Change Nickname Item
 * Capsule Shop
 * Block Player
 * Change Team
