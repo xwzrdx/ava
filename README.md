@@ -50,6 +50,7 @@
 
 
 # To Do
+* Capsule Shop
 * Block Player
 * Change Team
 * Items that give Bonus% stuff (Euros/EXP, Boosters etc.)
