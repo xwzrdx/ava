@@ -4,6 +4,7 @@
 # Done
 * Character Creation
 * Nickname already exists
+* Tutorial + Tutorial Reward
 * Manner Score
 * Lobby Chat
 * Whisper Chat
@@ -44,7 +45,7 @@
 * Fixed a weird client bug causing the game to freeze when enabling ``After Effects``
 * True First Person (Legs & Feet shown!)
 * Reload while sprinting
-* Throw weapon
+* Throw/drop weapon
 * Game will show ``Playing A.V.A`` on Steam now
 
 
@@ -53,6 +54,9 @@
 
 
 # To Do
+* Change Room Settings
+* Weapons that exist in Capsules should be removed from Shop
+* Remove duplicates from Shop
 * Reset the Capsule Count when an item is won
 * Clans
 * Change Nickname Item
@@ -76,6 +80,7 @@
 
 # Ideas
 * Pity System for Capsules: Guaranteed drop after X spinned capsules?
+* Auto Sprint option
 
 
 
