@@ -50,6 +50,7 @@
 
 
 # To Do
+* Clans
 * Change Nickname Item
 * Capsule Shop
 * Block Player
