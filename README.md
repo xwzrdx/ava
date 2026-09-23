@@ -44,7 +44,8 @@
 * Fixed a weird client bug causing the game to freeze when enabling ``After Effects``
 * True First Person (Legs & Feet shown!)
 * Reload while sprinting
-* Throw weapon 
+* Throw weapon
+* Game will show ``Playing A.V.A`` on Steam now
 
 
 
