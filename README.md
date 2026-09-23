@@ -33,6 +33,7 @@
 * Friend Memo
 * Weapon Modifications
 * Original Channels (Arena/Ranked/Clan, AI/Scenario, etc.)
+* Capsule Shop
 
 # Client Stuff
 * Weapon Sway when looking around
@@ -50,9 +51,10 @@
 
 
 # To Do
+* Chat message when someone wins an item
+* Reset the Capsule Count when an item is won
 * Clans
 * Change Nickname Item
-* Capsule Shop
 * Block Player
 * Change Team
 * Items that give Bonus% stuff (Euros/EXP, Boosters etc.)
@@ -91,6 +93,8 @@
 <img width="988" height="741" alt="image" src="https://github.com/user-attachments/assets/59935ffb-8233-4f13-a69b-9a53e4896c97" />
 <img width="397" height="646" alt="image" src="https://github.com/user-attachments/assets/1aeaeb31-af31-4789-ae97-4b1277bbe910" />
 <img width="242" height="213" alt="image" src="https://github.com/user-attachments/assets/7f64e551-d258-4719-97bd-a869dbe366e2" />
+<img width="885" height="678" alt="image" src="https://github.com/user-attachments/assets/ec5c2b8d-3a8c-4932-954f-5a3c2b65882b" />
+<img width="1295" height="811" alt="image" src="https://github.com/user-attachments/assets/3e4d8c5f-5df8-45fb-af61-781b1671d8f9" />
 
 
 
