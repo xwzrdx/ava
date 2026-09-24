@@ -38,6 +38,7 @@
 * Jackpot message when an item is won
 
 # Client Stuff
+* Hide & Seek Mode
 * Weapon Sway when looking around
 * FOV Changer
 * Viewmodel FOV changer
