@@ -77,7 +77,7 @@
 * Stats updates (Victory/Defeat in rooms, ignore ai rooms)
 * Training Weapons when creating char?
 * Mailbox
-* Durability
+* Item Durability/Maintenance
 * Rentals/Expiring Items
 * Kick player from room
 * Euros/EXP/Stats from matches (Also calculate booster items like EXP/Euros)
