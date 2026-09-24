@@ -47,6 +47,7 @@
 * Reload while sprinting
 * Throw/drop weapon
 * Game will show ``Playing A.V.A`` on Steam now
+* Auto Sprint option
 
 
 
@@ -80,7 +81,7 @@
 
 # Ideas
 * Pity System for Capsules: Guaranteed drop after X spinned capsules?
-* Auto Sprint option
+
 
 
 
