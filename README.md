@@ -55,6 +55,7 @@
 # AVA Editor Tool
 * Adding custom skins to the game
 * Adding custom weapon icons for skins to the game
+* Weapon Stats Editor - Nerf/Buff weapon stats such as: Accuracy, Recoil, Movement Speed, Damage, Ammo, etc.
 * Shop Editor - Add, Remove, Change Currency, Price, Item Name, Description, Item IDs, etc. of items
 * Capsule Shop Editor - Add, Remove, Change Currency, Price, etc. of capsules
 
