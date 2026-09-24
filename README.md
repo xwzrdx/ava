@@ -56,6 +56,7 @@
 
 
 # To Do
+* Editor Tool
 * Change Room Settings
 * Weapons that exist in Capsules should be removed from Shop
 * Remove duplicates from Shop
@@ -82,6 +83,8 @@
 
 # Ideas
 * Pity System for Capsules: Guaranteed drop after X spinned capsules?
+
+
 
 
 
