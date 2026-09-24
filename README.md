@@ -50,6 +50,7 @@
 * Auto Sprint option
 * Custom Crosshair option
 * Possibility to add custom skins to the game
+* Shop Editor
 
 
 
