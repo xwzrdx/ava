@@ -54,6 +54,7 @@
 
 # AVA Editor Tool
 * Adding custom skins to the game
+* Adding custom weapon icons for skins to the game
 * Shop Editor - Add, Remove, Change Currency, Price, Item Name, Description, Item IDs, etc. of items
 * Capsule Shop Editor - Add, Remove, Change Currency, Price, etc. of capsules
 
