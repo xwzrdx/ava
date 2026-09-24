@@ -59,6 +59,7 @@
 * Weapon Stats Editor - Nerf/Buff weapon stats such as: Accuracy, Recoil, Movement Speed, Damage, Ammo, etc.
 * Shop Editor - Add, Remove, Change Currency, Price, Item Name, Description, Item IDs, etc. of items
 * Capsule Shop Editor - Add, Remove, Change Currency, Price, etc. of capsules
+* Map Editor - Move, Add, Remove  meshes on maps
 
 
 
