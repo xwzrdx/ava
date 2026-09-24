@@ -49,15 +49,19 @@
 * Game will show ``Playing A.V.A`` on Steam now
 * Auto Sprint option
 * Custom Crosshair option
-* Possibility to add custom skins to the game
-* Shop Editor
+
+
+
+# AVA Editor Tool
+* Adding custom skins to the game
+* Shop Editor - Add, Remove, Change Currency, Price, Item Name, Description, Item IDs, etc. of items
+* Capsule Shop Editor - Add, Remove, Change Currency, Price, etc. of capsules
 
 
 
 
 
 # To Do
-* Editor Tool
 * Change Room Settings
 * Weapons that exist in Capsules should be removed from Shop
 * Remove duplicates from Shop
