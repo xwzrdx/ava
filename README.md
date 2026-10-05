@@ -46,6 +46,7 @@
 * Fixed a weird client bug causing the game to freeze when enabling ``After Effects``
 * True First Person (Legs & Feet shown!)
 * Reload while sprinting
+* Sniper Rechamber while sprinting
 * Throw/drop weapon
 * Game will show ``Playing A.V.A`` on Steam now
 * Auto Sprint option
