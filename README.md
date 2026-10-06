@@ -51,6 +51,7 @@
 * Game will show ``Playing A.V.A`` on Steam now
 * Auto Sprint option
 * Custom Crosshair option
+* Custom Weapon Skins
 
 
 
