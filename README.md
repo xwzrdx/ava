@@ -36,6 +36,7 @@
 * Original Channels (Arena/Ranked/Clan, AI/Scenario, etc.)
 * Capsule Shop (3% chance per Capsule)
 * Jackpot message when an item is won
+* Dedicated Server Mode (no Peer2Peer)
 
 # Client Stuff
 * Hide & Seek Mode
@@ -69,7 +70,6 @@
 
 # To Do
 * Change Tick Rate in Dedicated & P2P mode
-* Dedicated Server Mode (instead of peer2peer)
 * Change Room Settings
 * Weapons that exist in Capsules should be removed from Shop
 * Remove duplicates from Shop
