@@ -68,6 +68,8 @@
 
 
 # To Do
+* Change Tick Rate in Dedicated & P2P mode
+* Dedicated Server Mode (instead of peer2peer)
 * Change Room Settings
 * Weapons that exist in Capsules should be removed from Shop
 * Remove duplicates from Shop
