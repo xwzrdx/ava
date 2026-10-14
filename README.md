@@ -39,6 +39,7 @@
 * Dedicated Server Mode (no Peer2Peer)
 
 # Client Stuff
+* Dynamic Viewmodel Adaptation (Corner Slice & Wall pushback)
 * Hide & Seek Mode
 * Weapon Sway when looking around
 * FOV Changer
@@ -131,6 +132,8 @@
 <img width="472" height="116" alt="image" src="https://github.com/user-attachments/assets/ab4f21e2-c825-44e5-8aa8-d064b0441a03" />
 <img width="993" height="742" alt="image" src="https://github.com/user-attachments/assets/69d4e923-2f1b-44b5-a3ad-a644203a9b9a" />
 <img width="1022" height="811" alt="image" src="https://github.com/user-attachments/assets/8152eed6-73a3-44a1-a745-6895814e1947" />
+<img width="1276" height="957" alt="image" src="https://github.com/user-attachments/assets/3963b6f9-6fc6-4e97-9493-23d5c1238fe8" />
+<img width="1277" height="957" alt="image" src="https://github.com/user-attachments/assets/19a86dfa-4a3c-44da-b1f8-1d2caae58929" />
 
 
 
